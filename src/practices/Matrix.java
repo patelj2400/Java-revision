@@ -1,4 +1,4 @@
-package Practices;
+package practices;
 
 public class Matrix {
 

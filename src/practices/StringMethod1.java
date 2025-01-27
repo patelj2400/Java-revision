@@ -1,4 +1,4 @@
-package Practices;
+package practices;
 
 public class StringMethod1 {
     public static void main(String[] args) {
